@@ -1,0 +1,26 @@
+RyuBar Symbols
+
+Dragon:
+󰚩
+
+Terminal:
+
+
+Network:
+󰖂
+
+Power:
+
+
+CPU:
+
+
+Memory:
+
+
+Folder:
+
+
+Browser:
+󰖟
+
